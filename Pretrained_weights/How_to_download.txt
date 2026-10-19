@@ -1,0 +1,2 @@
+Pretrained HERON weights can be downloaded from:
+https://github.com/NathanChen-2002/HERON-for-MRI-harmonization/releases/download/Pretrained_weights/checkpoint.pt
